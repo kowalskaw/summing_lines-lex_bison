@@ -25,5 +25,3 @@ P = {S->I S|F S| H S| E S, E-> F ‘e+’ I, F->I ’.’ I, H->I H|L H|I|L, I->
 **Zad. 3**
 W kodzie leksera są zapisane wyrażenia regularne wyłapujące poszczególne rodzaje liczb. W kodzie parsera są zapisane: w sekcji definicji zmienne w których są przechowywane sumy liczb z danych wierszów, deklaracje funkcji pomocniczych oraz tokeny i typy. Wykorzystane zostały funkcje pomocnicze do konwersji char* na int int na char*.
 
-**Zad. 4**
-Zadanie zostało opracowane bazując na 3 zadaniu. W lekserze została umieszczona reguła, która wyszukuje numer wiersza. Po napotkaniu na numer wiersza, jest on ignorowany. Numer wiersza jest przekazywany do parsera poprzez zmienną yylineo.
