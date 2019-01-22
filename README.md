@@ -2,8 +2,8 @@
 
    **Sprawozdanie – laboratorium 6**	
    
-Weronika Kowalska   136264      
-Alicja Gratkowska	    136242
+Weronika Kowalska     
+Alicja Gratkowska
 
 **Zad. 1**
 Wzorce wyszukujące wiersze z daną klasą danych:
